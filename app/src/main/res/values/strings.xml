@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Namma Shaale Inventory</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="issues">Issues</string>
+    <string name="reports">Reports</string>
+    <string name="green">GREEN</string>
+    <string name="yellow">YELLOW</string>
+    <string name="red">RED</string>
+    <string name="add">Add</string>
+    <string name="mark_resolved">Mark Resolved</string>
+    <string name="setup">Setup</string>
+    <string name="pin">PIN</string>
+</resources>

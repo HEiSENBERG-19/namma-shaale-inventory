@@ -1,0 +1,34 @@
+# Built application files
+*.apk
+*.aab
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file
+local.properties
+
+# IntelliJ / Android Studio
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/caches/
+.idea/modules.xml
+
+# Mac hidden files
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Native build outputs
+.externalNativeBuild/
+.cxx/
+captures/

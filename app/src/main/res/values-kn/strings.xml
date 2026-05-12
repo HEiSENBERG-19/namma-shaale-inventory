@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Shaale Inventory</string>
+    <string name="dashboard">ಡ್ಯಾಶ್ ಬೋರ್ಡ್</string>
+    <string name="issues">ಸಮಸ್ಯೆಗಳು</string>
+    <string name="reports">ವರದಿಗಳು</string>
+    <string name="green">ಉತ್ತಮ</string>
+    <string name="yellow">ಸಾಧಾರಣ</string>
+    <string name="red">ಕುಂದು</string>
+    <string name="add">ಸೇರಿಸಿ</string>
+    <string name="mark_resolved">ಬಗೆಹರಿಸಲಾಗಿದೆ</string>
+    <string name="setup">ಸೆಟಪ್</string>
+    <string name="pin">ಪಿನ್</string>
+</resources>
